@@ -11,4 +11,4 @@ url:     http://kylewen.com
 # Build settings
 markdown: kramdown
 paginate:    5
-permalink: /year/month/day/title.html
+permalink: /:title

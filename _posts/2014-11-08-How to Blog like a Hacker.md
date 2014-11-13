@@ -1,5 +1,6 @@
 ---
 layout:    post_entry
+title: How to Blog like a Hacker
 image:    /img/dreams.jpg
 ---
 
