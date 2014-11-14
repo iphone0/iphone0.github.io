@@ -7,7 +7,9 @@ image:    /img/dreams.jpg
 ##世界這麼亂，裝純給誰看
 
 For the past two weeks and have been falling in love with [Github][]. Git
-is truly an amazing tool & so is [Jekyll][]. I was going to say Version Control, but that ain't fair, Git is so much more. You can create and publish Github pages online using the [Automatic Page Generator][]. If you prefer to work on your own, you can use github for Mac and Windows, or the Command line.
+is truly an amazing tool & so is [Jekyll][]. I was going to say Version Control, but that ain't fair, Git is so much more. You can create and publish Github pages online using the [Automatic Page Generator][]. If you prefer to work on your own, you can use github for Mac and Windows, or the Command line. 
+
+In my next post, I will get into more details about how to create your own site by using [jekyll][] & [Github][]. 
 
 ##What's Jekyll and Why do i Care?
 
@@ -24,6 +26,7 @@ You will need to go to the following sites and get the basic first:
 * [GitHub][]
 * [Jekyll][]
 * [Disqus][]
+
 
 
 
