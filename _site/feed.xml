@@ -6,9 +6,20 @@
 </description>
     <link>http://kylewen.com/</link>
     <atom:link href="http://kylewen.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Nov 2014 18:02:08 -0500</pubDate>
-    <lastBuildDate>Thu, 13 Nov 2014 18:02:08 -0500</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2014 23:38:12 -0500</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2014 23:38:12 -0500</lastBuildDate>
     <generator>Jekyll v2.5.0</generator>
+    
+      <item>
+        <title>Building your site with J &amp; G</title>
+        <description>
+</description>
+        <pubDate>Thu, 13 Nov 2014 00:00:00 -0500</pubDate>
+        <link>http://kylewen.com/2014/11/13/%200%20to%20Blog.html</link>
+        <guid isPermaLink="true">http://kylewen.com/2014/11/13/%200%20to%20Blog.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>How to Blog like a Hacker</title>
@@ -39,8 +50,8 @@ is truly an amazing tool &amp;amp; so is &lt;a href=&quot;https://github.com/moj
 
 </description>
         <pubDate>Sat, 08 Nov 2014 00:00:00 -0500</pubDate>
-        <link>http://kylewen.com/How%20to%20Blog%20like%20a%20Hacker</link>
-        <guid isPermaLink="true">http://kylewen.com/How%20to%20Blog%20like%20a%20Hacker</guid>
+        <link>http://kylewen.com/2014/11/08/How%20to%20Blog%20like%20a%20Hacker.html</link>
+        <guid isPermaLink="true">http://kylewen.com/2014/11/08/How%20to%20Blog%20like%20a%20Hacker.html</guid>
         
         
       </item>
