@@ -6,8 +6,8 @@
 </description>
     <link>http://kylewen.com/</link>
     <atom:link href="http://kylewen.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 15 Nov 2014 01:20:24 -0500</pubDate>
-    <lastBuildDate>Sat, 15 Nov 2014 01:20:24 -0500</lastBuildDate>
+    <pubDate>Sat, 15 Nov 2014 14:40:13 -0500</pubDate>
+    <lastBuildDate>Sat, 15 Nov 2014 14:40:13 -0500</lastBuildDate>
     <generator>Jekyll v2.5.0</generator>
     
       <item>
@@ -42,7 +42,7 @@ is truly an amazing tool &amp;amp; so is &lt;a href=&quot;https://github.com/moj
 
 &lt;p&gt;What’s Jekyll and Why do i Care?&lt;/p&gt;
 
-&lt;p&gt;Jekyll is a simple, blog-aware webiste generator. It requires a bit of ruby codes and transfers raw text files in various formats with &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot; title=&quot;markdown&quot;&gt;MarkDown&lt;/a&gt;, sort out files and then you are able to publish your favourite site to your favorite web serve. Jekyll also happens to be the engine behind &lt;mark&gt;GitHub Pages&lt;/mark&gt;, which means !!!! you can use jekyll to create a project_folder (which contais all the required files for you site ) and push it to your own &lt;mark&gt;Github&lt;/mark&gt; account ^repository^ (or github’s server) for free. Then You will write your post in a plain text file, run jekyll and push to your github server. sometimes, I still found myself getting lost as I tried to add some plugins to here or there for my site/blog but I was enjoying it. Moreover, every line of this site is mine, it turns out, that’s pretty important to me. Jekyll is cool, &amp;amp; I like cool stuffs. I started everything from scratch, and I don’t think i ended up with a particulary unique blog site. T.T&lt;/p&gt;
+&lt;p&gt;Jekyll is a simple, blog-aware webiste generator. It requires a bit of ruby codes and transfers raw text files in various formats with &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot; title=&quot;markdown&quot;&gt;MarkDown&lt;/a&gt;, sort out files and then you are able to publish your favourite site to your favorite web serve. Jekyll also happens to be the engine behind GitHub Pages, which means !!!! you can use jekyll to create a project_folder (which contais all the required files for you site ) and push it to your own Github account ^repository^ (or github’s server) for free. Then You will write your post in a plain text file, run jekyll and push to your github server. sometimes, I still found myself getting lost as I tried to add some plugins to here or there for my site/blog but I was enjoying it. Moreover, every line of this site is mine, it turns out, that’s pretty important to me. Jekyll is cool, &amp;amp; I like cool stuffs. I started everything from scratch, and I don’t think i ended up with a particulary unique blog site. T.T&lt;/p&gt;
 
 &lt;p&gt;If I can do it, you can do it. 世界這麼亂，裝純給誰看&lt;/p&gt;
 
