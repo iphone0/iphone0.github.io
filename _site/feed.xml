@@ -6,13 +6,13 @@
 </description>
     <link>http://kylewen.com/</link>
     <atom:link href="http://kylewen.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Nov 2014 23:38:12 -0500</pubDate>
-    <lastBuildDate>Thu, 13 Nov 2014 23:38:12 -0500</lastBuildDate>
+    <pubDate>Fri, 14 Nov 2014 23:20:43 -0500</pubDate>
+    <lastBuildDate>Fri, 14 Nov 2014 23:20:43 -0500</lastBuildDate>
     <generator>Jekyll v2.5.0</generator>
     
       <item>
         <title>Building your site with J &amp; G</title>
-        <description>
+        <description>&lt;p&gt;Hoya..I have been waiting for this moment since working on this site, and I am here now finally. &lt;/p&gt;
 </description>
         <pubDate>Thu, 13 Nov 2014 00:00:00 -0500</pubDate>
         <link>http://kylewen.com/2014/11/13/%200%20to%20Blog.html</link>
@@ -23,18 +23,16 @@
     
       <item>
         <title>How to Blog like a Hacker</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;世界這麼亂，裝純給誰看&lt;/h2&gt;
-
-&lt;p&gt;For the past two weeks and have been falling in love with &lt;a href=&quot;http://github.com&quot; title=&quot;Github:social coding&quot;&gt;Github&lt;/a&gt;. Git
+        <description>&lt;p&gt;For the past two weeks and have been falling in love with &lt;a href=&quot;http://github.com&quot; title=&quot;Github:social coding&quot;&gt;Github&lt;/a&gt;. Git
 is truly an amazing tool &amp;amp; so is &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&lt;/a&gt;. I was going to say Version Control, but that ain’t fair, Git is so much more. You can create and publish Github pages online using the &lt;a href=&quot;https://help.github.com/articles/what-are-github-pages/&quot; title=&quot;Automatic Page Generator&quot;&gt;Automatic Page Generator&lt;/a&gt;. If you prefer to work on your own, you can use github for Mac and Windows, or the Command line. &lt;/p&gt;
 
 &lt;p&gt;In my next post, I will get into more details about how to create your own site by using &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;jekyll&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://github.com&quot; title=&quot;Github:social coding&quot;&gt;Github&lt;/a&gt;. &lt;/p&gt;
 
-&lt;h2 id=&quot;whats-jekyll-and-why-do-i-care&quot;&gt;What’s Jekyll and Why do i Care?&lt;/h2&gt;
+&lt;p&gt;What’s Jekyll and Why do i Care?&lt;/p&gt;
 
 &lt;p&gt;Jekyll is a simple, blog-aware webiste generator. It requires a bit of ruby codes and transfers raw text files in various formats with &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot; title=&quot;markdown&quot;&gt;MarkDown&lt;/a&gt;, sort out files and then you are able to publish your favourite site to your favorite web serve. Jekyll also happens to be the engine behind &lt;mark&gt;GitHub Pages&lt;/mark&gt;, which means !!!! you can use jekyll to create a project_folder (which contais all the required files for you site ) and push it to your own &lt;mark&gt;Github&lt;/mark&gt; account ^repository^ (or github’s server) for free. Then You will write your post in a plain text file, run jekyll and push to your github server. sometimes, I still found myself getting lost as I tried to add some plugins to here or there for my site/blog but I was enjoying it. Moreover, every line of this site is mine, it turns out, that’s pretty important to me. Jekyll is cool, &amp;amp; I like cool stuffs. I started everything from scratch, and I don’t think i ended up with a particulary unique blog site. T.T&lt;/p&gt;
 
-&lt;h2 id=&quot;if-i-can-do-it-you-can-do-it&quot;&gt;If I can do it, you can do it.&lt;/h2&gt;
+&lt;p&gt;If I can do it, you can do it. 世界這麼亂，裝純給誰看&lt;/p&gt;
 
 &lt;p&gt;If you don’t have distractions like I do such as Call Of Duty 11, League of Legend, movies, League of Lengend again, then trust me, you can build a blog/site better than this.  &lt;/p&gt;
 
