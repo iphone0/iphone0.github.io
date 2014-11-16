@@ -1,80 +1,104 @@
 body {
-  font: 16px/1.5 verdana, helvetica-neue, helvetica, arial, san-serif;
-  background: black;
+  font: 17px/1.5 verdana, helvetica-neue, helvetica, arial, san-serif;
+  background-color: black;
   color: #ececec;
   padding: 0;
   margin: 0;
 }
-h2 {font-size:22px;font-weight:bold;margin-bottom:25px;}
-h3 {font-size:18px;font-weight:bold;margin-bottom:25px;}
-h4,h5,h6 {font-weight:bold;margin-bottom:15px;}
-p {margin-bottom:40px;line-height:1.8em;}
-code {background:#eee;border:1px solid #ccc;padding:0 5px;font-family:"Courier";line-height:14px;font-size:14px;word-wrap:break-word; }
-pre {background-color:#000;padding:15px;overflow:auto;margin-bottom:40px;font-size:14px;border: 1px solid #eee;-webkit-border-radius: 4px 4px 4px 4px;-moz-border-radius: 4px 4px 4px 4px;border-radius: 4px 4px 4px 4px;color:#b9bdb6;margin-top:-20px; }
-h4+pre, h3+pre { margin-top:20px; }
-pre code{background-color:transparent;border:none;padding:0;word-wrap:normal;}
-pre ol{margin-left:25px;list-style-type:decimal;}
+
 ul {
   margin: 0;
   padding: 0;
 }
 a {
-  color: #000099;
+  color: #003399;
   text-decoration: none;
 }
 
-a:hover {
+a:hover {color: #ececec;
   text-decoration: underline;
 }
  
 #main {
-  width: 960px;
+  width: 954px;
   margin: 0 auto;
   background: rgba(255, 255, 255, 0.4);
+  list-style-type: none;
 }
 header {
-  padding: 0 10px;
+  padding: 0 5px;
   overflow: hidden;
 }
 h1 {
-  margin: 0;
+  margin: 0px;
 }
+ 
+ ul{
+  margin-bottom:0px;margin-left:25px;padding: 0 .2em;;
+ }
  
 nav ul, ul.entries {
   list-style-type: none;
 }
 nav li a {
   float: left;
-  margin: 5px; 
+  margin: 5px;
+  list-style-type: none; 
 }
 .content {
   padding: 10px;
 }
- 
-ul.entries li {
-  position: relative;
-  margin: 20px auto;
-  padding: 20px;
-  background: #ececec;
-  width: 600px;
+ul.entries li{
+  margin-bottom: 5px; line-height: 1.8em; color: none;
 }
  
 ul.entries img {
   width: 600px;
 }
- 
+
 ul.entries li h3 {
-  position: absolute;
   bottom: -18px;
   left: 17px;
   font-size: 2em;
-}
+ }
+
 ul.entries a {
   color: #ececec;
+  list-style-type: none;
 }
+
 ul.entries a:hover {
-  color: #fff;
+  color: none;
+  list-style-type: none;
 }
+
+#post {
+
+}
+
+  /* standard */
+
+  #post pre {
+    border: 1px solid #ddd;
+    background-color: #eef;
+    padding: 0 .4em;
+  }
+
+  #post ul,
+  #post ol {
+    margin-left: 1.35em;
+  }
+
+  #post code {
+    border: 1px solid #ddd;
+    background-color: #eef;
+    font-size: 85%;
+    padding: 0 .2em;
+  }
+
+    #post pre code {
+      border: none;
+    }
  
 footer {
   font-size: 0.65em;
