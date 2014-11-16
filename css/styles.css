@@ -21,7 +21,7 @@ a:hover {color: #ececec;
  
 #main {
   width: 954px;
-  margin: 0 auto;
+  margin: auto;
   background: rgba(255, 255, 255, 0.4);
   list-style-type: none;
 }
@@ -32,10 +32,6 @@ header {
 h1 {
   margin: 0px;
 }
- 
- ul{
-  margin-bottom:0px;margin-left:25px;padding: 0 .2em;;
- }
  
 nav ul, ul.entries {
   list-style-type: none;
