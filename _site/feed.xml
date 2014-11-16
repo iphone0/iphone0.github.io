@@ -6,8 +6,8 @@
 </description>
     <link>http://kylewen.com/</link>
     <atom:link href="http://kylewen.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Nov 2014 17:46:15 -0500</pubDate>
-    <lastBuildDate>Sun, 16 Nov 2014 17:46:15 -0500</lastBuildDate>
+    <pubDate>Sun, 16 Nov 2014 18:32:18 -0500</pubDate>
+    <lastBuildDate>Sun, 16 Nov 2014 18:32:18 -0500</lastBuildDate>
     <generator>Jekyll v2.5.0</generator>
     
       <item>
@@ -41,7 +41,7 @@
 
 &lt;h3 id=&quot;github-pages&quot;&gt;使用Github Pages建立博客&lt;/h3&gt;
 
-&lt;p&gt;在此之前，你需要对Git和Github有基本的了解和掌握。这里有一份不错的基础教程，或者查看官方文件&lt;/p&gt;
+&lt;p&gt;在此之前，你需要对Git和Github有基本的了解和掌握。这里有一份不错的&lt;a href=&quot;http://wulujia.com/2014/01/15/jekyll-github-blog/#toc_1&quot;&gt;基础教程&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 15 Nov 2014 00:00:00 -0500</pubDate>
