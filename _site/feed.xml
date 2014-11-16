@@ -6,20 +6,20 @@
 </description>
     <link>http://kylewen.com/</link>
     <atom:link href="http://kylewen.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Nov 2014 16:18:29 -0500</pubDate>
-    <lastBuildDate>Sun, 16 Nov 2014 16:18:29 -0500</lastBuildDate>
+    <pubDate>Sun, 16 Nov 2014 17:37:44 -0500</pubDate>
+    <lastBuildDate>Sun, 16 Nov 2014 17:37:44 -0500</lastBuildDate>
     <generator>Jekyll v2.5.0</generator>
     
       <item>
         <title>使用Jekyll和Git創建這個網站</title>
-        <description>&lt;p&gt;如果你對編程有所了解，就一定聽說過&lt;a href=&quot;http://github.com&quot; title=&quot;Github&quot;&gt;Github&lt;/a&gt;. 它號稱是程序員的facebook，有著很高的人氣。 但是如果你很幸運不是一個程序員，或者你是一個不用煩惱這些亂七八糟的程序員，那麼相信我，你一樣可以創建一個跟我一模一樣的個人站點。 我也趁這這個機會，再一次去回顧每一個步驟。 Let‘s Rock &amp;amp; Roll&lt;/p&gt;
+        <description>&lt;p&gt;如果你對編程有所了解，就一定聽說過&lt;a href=&quot;http://github.com&quot; title=&quot;Github&quot;&gt;Github&lt;/a&gt;它號稱是程序員的facebook，有著很高的人氣。 但是如果你很幸運不是一個程序員，或者你是一個不用煩惱這些亂七八糟的程序員，那麼相信我，你一樣可以創建一個跟我一模一樣的個人站點。&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;技術很簡單， 不用擔心&lt;/strong&gt;
 從整個建站到完成，大致涉及到以下的服務和技術:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;在Godaddy上註冊你喜歡的域名，然後將你域名託管給(域名解釋）DNSPod&lt;/li&gt;
-  &lt;li&gt;將你的代碼託管在Github，最後使用Guthub Pages發佈你的個人網站&lt;/li&gt;
+  &lt;li&gt;在&lt;a href=&quot;https://www.godaddy.com/&quot;&gt;Godaddy&lt;/a&gt;上註冊你喜歡的域名，然後將你域名託管給(域名解釋）&lt;a href=&quot;https://www.dnspod.cn/&quot;&gt;DNSPod&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;將你的代碼託管在&lt;a href=&quot;http://github.com&quot; title=&quot;Github&quot;&gt;Github&lt;/a&gt;，最後使用&lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;發佈你的個人網站&lt;/li&gt;
   &lt;li&gt;下載使用Jekyll，編寫整個網站&lt;/li&gt;
   &lt;li&gt;如果你希望你的網站有評論功能，可以使用Disqus託管評論&lt;/li&gt;
 &lt;/ul&gt;
@@ -35,13 +35,13 @@
 &lt;p&gt;DNSPod家的服务很好用，而且免费，整个过程简单到没有给我留下任何可折腾的空间。 官方的帮助文档已经有了很详实的介绍，包括godaddy注册的域名如何使用DNSPod,只需三步即可。&lt;/p&gt;
 
 &lt;p&gt;不过由于我们接下来会使用Github Pages来发布网站，因此需要额外插入一步： 在DNSPod自己的域名下添加两条A记录(或者修改原有存在的那条A记录并添加一条)，地址分别为：23.235.39.133和(一樣) 23.235.39.133，正是Github Pages的服务IP地址。最终效果如下：
-&lt;img src=&quot;/img/dnspod.jpg&quot; alt=&quot;pod&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/img/dreams.jpg&quot; alt=&quot;pod&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;域名的配置部分完成，需耐心等待解析生效。&lt;/p&gt;
 
 &lt;h3 id=&quot;github-pages&quot;&gt;使用Github Pages建立博客&lt;/h3&gt;
 
-&lt;p&gt;在此之前，你需要对Git和Github有基本的了解和掌握。这里有一份不错的基础教程，或者查看官方文档。&lt;/p&gt;
+&lt;p&gt;在此之前，你需要对Git和Github有基本的了解和掌握。这里有一份不错的基础教程，或者查看官方文件&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 15 Nov 2014 00:00:00 -0500</pubDate>
@@ -53,7 +53,7 @@
     
       <item>
         <title>Why did I build this site</title>
-        <description>&lt;p&gt;It’t finally Friday I’m free again(what a busy week and it’s cold too). I believe the design of this site is almost done, at least, I am satisfied with the current outcome which basically uses Jekyll, Github and a little bit of HTML. Being honest, the invisible force that pushed me forward and had this site built was not something big but just the moment I realized my donmain name Kylewen.com was available in GoDaddy and only cost $10 dollar with promotion code for two years!! And then I just took out my credit card and purchased the domain name with no idea about what I was going to do about it at all.I really think the first moment I own my .com could be the my most exciting moment of the year. Thereafter my idea of building my own site is gradually strengthened and I just started it from groud up.&lt;/p&gt;
+        <description>&lt;p&gt;It’t finally Friday I’m free again(what a busy week and it’s cold too). I believe the design of this site is almost done, at least, I am satisfied with the current outcome which basically uses Jekyll, Github and a little bit of HTML. Being honest, the invisible force that pushed me forward and had this site built was not something big but just the moment I realized my donmain name Kylewen.com was available in GoDaddy and only cost $10 dollar with promotion code for two years!! And then I just took out my credit card and purchased the domain name with no idea about what I was going to do about it at all.I really think the first moment I own my .com could be the my most exciting moment of the year. Thereafter my idea of building my own site is gradually strengthened and I just started it from ground up.&lt;/p&gt;
 
 &lt;p&gt;Over the course of my life, I’ve embraced a number of hobbies: video games, sleeping, day dreaming, just to name a few. But none of them have changed the way I live, the way I think, the way I learn or have brough me as much as satifaction as building something on my own and sharing with others. I may be the only audience of this site but I will still keep working on it, Cuz I am happy of doing it. &lt;/p&gt;
 
